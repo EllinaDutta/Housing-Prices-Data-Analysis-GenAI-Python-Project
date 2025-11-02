@@ -1,0 +1,2 @@
+# Housing-Prices-Data-Analysis-GenAI-Python-Project
+This project explores a real estate dataset to identify the key factors influencing property sale prices using Python (Pandas, Matplotlib, Seaborn) in Google Colab — with active use of ChatGPT (GenAI) for guided code generation, prompt-based data exploration, and visualization insights.  Demonstrated how GenAI can enhance a data analyst’s workflow
