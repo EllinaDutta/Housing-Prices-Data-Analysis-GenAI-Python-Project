@@ -4,13 +4,6 @@
 ![AI](https://img.shields.io/badge/GenAI-Powered-lightgreen)
 ![Visualization](https://img.shields.io/badge/Data%20Viz-Matplotlib%20%7C%20Seaborn-yellow)
 
----
-
-## 📊 Project Preview
-<img width="690" height="663" alt="image" src="https://github.com/user-attachments/assets/0fe0c56d-a9d3-47b8-b88e-b67ec4ca3862" />
-
-
-*Sample Visualization: Sale Price vs. Number of Bedrooms (Bivariate Analysis)*
 
 ---
 
@@ -80,6 +73,15 @@ Explored the relationship between `No of Bedrooms` and `Sale Price` using:
 📈 *Finding:* The correlation is **weak to moderate** — bedrooms alone aren’t a strong predictor of price.
 
 ---
+
+---
+
+## 📊 Project Preview
+<img width="690" height="663" alt="image" src="https://github.com/user-attachments/assets/0fe0c56d-a9d3-47b8-b88e-b67ec4ca3862" />
+
+
+*Sample Visualization: Sale Price vs. Number of Bedrooms (Bivariate Analysis)*
+
 
 ## 💡 Key Insights
 
