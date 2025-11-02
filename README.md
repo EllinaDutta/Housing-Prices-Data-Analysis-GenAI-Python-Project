@@ -6,6 +6,14 @@
 
 ---
 
+## 📊 Project Preview
+<img width="690" height="663" alt="image" src="https://github.com/user-attachments/assets/0fe0c56d-a9d3-47b8-b88e-b67ec4ca3862" />
+
+
+*Sample Visualization: Sale Price vs. Number of Bedrooms (Bivariate Analysis)*
+
+---
+
 ## 📌 Overview
 This project explores a **real estate dataset** to identify key factors influencing property sale prices using **Python (Pandas, Matplotlib, Seaborn)** in **Google Colab**, with active assistance from **ChatGPT (GenAI)**.
 
